@@ -51,6 +51,12 @@ uGUIで画面エフェクトを入れるためのシェーダーです。<br>
 
 > 砂嵐
 
-<img src="https://github.com/gon-siege/unity-ugui-posteffect/blob/master/Assets/Sample/SandStorm/SandStormScreenShot.png" width="420"><img src="https://github.com/gon-siege/unity-ugui-posteffect/blob/master/Assets/Sample/PlusNoise/PlusNoiseYScreenShot.png" width="420">
+<img src="https://github.com/gon-siege/unity-ugui-posteffect/blob/master/Assets/Sample/SandStorm/SandStormScreenShot.png" width="420">
 
 画面に砂嵐を表示します。
+
+> セピア
+
+<img src="https://github.com/gon-siege/unity-ugui-posteffect/blob/master/Assets/Sample/Sepia/SepiaScreenShot.png" width="420">
+
+カラーのRGBAを調整することで、セピアの結果を調整できます。
