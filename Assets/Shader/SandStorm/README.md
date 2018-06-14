@@ -4,4 +4,4 @@
 
 画面に砂嵐を表示します。
 
-<img src="https://github.com/gon-siege/unity-ugui-posteffehttps://github.com/gon-siege/unity-ugui-posteffect/blob/master/Sample/SandStorm/SandStorm.mov.gif" width="420">
+<img src="https://github.com/gon-siege/unity-ugui-posteffect/blob/master/Sample/SandStorm/SandStorm.mov.gif" width="420">
