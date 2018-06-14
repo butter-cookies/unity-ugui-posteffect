@@ -8,8 +8,6 @@ uGUIで画面エフェクトを入れるためのシェーダーです。<br>
 
 <img src="https://github.com/gon-siege/unity-ugui-posteffect/blob/master/Sample/Sample.png" >
 
-### Scene
-
 > Filter
 
 フィルターのマテリアルを入れ替えることで画面効果を切り替えることができます。<br>
